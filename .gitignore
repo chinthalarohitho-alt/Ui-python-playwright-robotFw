@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Robot Framework Logs
+log.html
+report.html
+output.xml
+playwright-log*.txt
+
+# Node (if any leftovers)
+node_modules/
+
+# OS generated files
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
